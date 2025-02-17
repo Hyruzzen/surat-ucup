@@ -1,0 +1,15 @@
+body {
+    background-image: url(ajiji.jpg)
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+.blok-login{
+    background-color: aliceblue;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 00 20px black;
+}
